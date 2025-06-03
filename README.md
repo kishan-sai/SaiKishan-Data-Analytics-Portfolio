@@ -57,21 +57,6 @@ Created a **fully automated personal finance tracker in Excel** to log, categori
 
 ---
 
-## 🎓 Education
-
-### 🎓 Halmstad University – Sweden  
-**CISCO Network Design and Computer Management**  
-*Sep 2018 – Feb 2019*  
-- Focused on scalable infrastructure, automation using Python, and Linux system administration.
-
-### 🎓 Dalarna University – Sweden  
-**Master’s in Solar Energy Engineering**  
-*Sep 2015 – Aug 2018*  
-- Specialized in renewable energy systems and analytical modeling using TRNSYS & Polysun.  
-- Thesis: *Data modeling of solar output variance due to connector differences*.
-
----
-
 ## 📫 Let's Connect
 
 - 📧 Email: kishansaims@gmail.com  
