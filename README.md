@@ -60,9 +60,9 @@ Business-focused **Data Analyst** with over **3** years of experience in buildin
 ## 📜 Certifications
 
 - 🥈 **SQL – Silver Badge**, HackerRank
-- 🟢 **Advanced Excel**, CodeBasics
-- 🟣 **Power BI Bootcamp**, UpGrad
-- 🟡 **SQL Bootcamp**, UpGrad
+- 🟢 **Advanced Excel**, CodeBasics: Learnt Excel from Beginner to Advanced level using a real-time business dataset.
+- 🟣 **Power BI Bootcamp**, Upgrad: Covered Relationships and DAX Functions and understood the nuances between Categorical and Continuous data
+- 🟡 **SQL Bootcamp**, techtnf: Covered a variety of SQL concepts from basic to advanced level, concluded with a mini project.
 
 ---
 
