@@ -10,7 +10,7 @@ Business-focused **Data Analyst** with over **2 years** of experience transformi
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Areas Of Expertise
 
 - **Languages & Frameworks**: SQL (Joins, CTEs, Subqueries, Window Functions), Python (Pandas, NumPy)
 - **Databases & Tools**: PostgreSQL, Microsoft Excel, Google Sheets
