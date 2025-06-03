@@ -3,9 +3,7 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/saikishans) | 📧 kishansaims@gmail.com | 📍 Hyderabad, India
 
 ---
-<p align="center">
-  <img src="Saikishan.jpg" alt="Sai Kishan" width="180" style="border-radius: 50%;">
-</p>
+![Dashboard Preview](Saikishan.png)
 
 ## 🧠 About Me
 
