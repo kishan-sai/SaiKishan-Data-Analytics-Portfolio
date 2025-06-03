@@ -29,7 +29,7 @@ Built a **Power BI dashboard** to visualize the end-to-end recruitment funnel us
 
 **🔧 Tools Used**: Power BI, Power Query, DAX, Excel  
 **📊 Key Insights**: Dropout analysis, role-based performance, location trends, and recruitment KPIs  
-**🔗 [View Project Repository](link-to-repo)**
+**🔗 [View Project Repository]([link-to-repo](https://github.com/kishan-sai/Recruitment-Analytics-PowerBI-Dashboard.git))**
 
 ---
 
