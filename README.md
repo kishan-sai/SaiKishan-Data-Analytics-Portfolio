@@ -53,7 +53,7 @@ Created a **fully automated personal finance tracker in Excel** to log, categori
 
 **🔧 Tools Used**: Excel, Lookup Functions, Pivot Tables, Conditional Formatting  
 **📊 Key Insights**: Income vs. expense trends, top spending categories, savings tracker  
-**🔗 [View Project Repository](link-to-repo)**
+**🔗 [View Project Repository](https://github.com/kishan-sai/Personal-Finance-Tracker-with-Excel.git)**
 
 ---
 
