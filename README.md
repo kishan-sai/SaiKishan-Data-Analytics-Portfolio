@@ -21,36 +21,41 @@ Business-focused **Data Analyst** with over **2 years** of experience transformi
 - **Soft Skills**: Stakeholder Communication, Team Leadership, Problem Solving, Attention to Detail
 
 ---
+## 📁 Portfolio Projects
 
-## 💼 Experience
+### 🧑‍💼 Recruitment Analytics Dashboard – Power BI
 
-### 📍 ClockWork Campaigns & Analytics – Hyderabad, India  
-**Political Consultant / Data Analyst**  
-*July 2023 – Present*  
-- Built real-time KPI dashboards in Power BI & Excel for campaign tracking across 4 districts.  
-- Automated weekly reporting, reducing manual efforts by 40%.  
-- Detected and flagged anomalies, improving strategic accuracy by 40%.  
-- Collaborated cross-functionally to generate data insights and reports.
+![Recruitment Dashboard Screenshot](Dashboard_Snapshot.png)
 
----
+Built a **Power BI dashboard** to visualize the end-to-end recruitment funnel using Excel-based candidate data. The report highlights drop-off stages, role/location-wise trends, and turnaround time (TAT), empowering HR teams to make data-driven hiring decisions.
 
-### 📍 Factree Communications Pvt. Ltd – Bangalore, India  
-**Political Analyst**  
-*March 2023 – July 2023*  
-- Developed Excel dashboards to track volunteer performance, improving efficiency by 25%.  
-- Applied data validation to reduce entry errors by 20%.  
-- Performed route optimization using Google Maps, reducing logistics cost by 30%.  
-- Delivered real-time sentiment tracking dashboards for leadership decisions.
+**🔧 Tools Used**: Power BI, Power Query, DAX, Excel  
+**📊 Key Insights**: Dropout analysis, role-based performance, location trends, and recruitment KPIs  
+**🔗 [View Project Repository](link-to-repo)**
 
 ---
 
-### 📍 Mindshare Analytics – Hyderabad, India  
-**Political Analyst**  
-*July 2022 – March 2023*  
-- Led field-level data collection via Google Forms & Excel, maintaining high data quality.  
-- Designed cost & mobilization trackers that cut travel inefficiencies by 15%.  
-- Optimized Bharat Jodo Yatra routes using Maps APIs and simulation tools.  
-- Built budget tracking dashboards to support leadership decisions.
+### ✈️ Indigo Flight Dashboard – Excel BI Project
+
+![Flight Dashboard Screenshot](Airlines-Dashboard.png)
+
+Developed an **interactive Excel dashboard** to analyze Indigo Airlines flight performance using PivotTables, slicers, and VBA. The dashboard tracks revenue, punctuality, route performance, and monthly trends for airline operations.
+
+**🔧 Tools Used**: Excel, PivotTables, Slicers, VBA, Conditional Formatting  
+**📊 Key Insights**: Top revenue routes, most delayed sectors, monthly and route-wise trends  
+**🔗 [View Project Repository](link-to-repo)**
+
+---
+
+### 💰 Personal Finance Tracker – Excel Dashboard
+
+![Finance Dashboard Screenshot](Income_Tracker.png)
+
+Created a **fully automated personal finance tracker in Excel** to log, categorize, and visualize income and expenses. Built-in formulas and pivot tables power a dynamic dashboard that supports monthly budgeting and financial planning.
+
+**🔧 Tools Used**: Excel, Lookup Functions, Pivot Tables, Conditional Formatting  
+**📊 Key Insights**: Income vs. expense trends, top spending categories, savings tracker  
+**🔗 [View Project Repository](link-to-repo)**
 
 ---
 
