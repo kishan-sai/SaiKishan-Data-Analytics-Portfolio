@@ -74,14 +74,6 @@ Created a **fully automated personal finance tracker in Excel** to log, categori
 
 ---
 
-## 🌍 Languages
-
-- **English**: Professional Working Proficiency  
-- **Hindi**: Limited Working Proficiency  
-- **Swedish**: Limited Working Proficiency
-
----
-
 ## 📫 Let's Connect
 
 - 📧 Email: kishansaims@gmail.com  
