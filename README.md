@@ -4,8 +4,6 @@
 
 ---
 
-![Dashboard Preview](Saikishan1.png)
-
 ## 🧠 About Me
 
 Business-focused **Data Analyst** with over **2 years** of experience transforming raw data into actionable insights to drive strategic decisions. Proficient in **Advanced SQL**, **Power BI**, and **Excel** (Power Query, Pivot, DAX), with a passion for building dashboards, automating reports, and delivering data stories that matter. Skilled in geo-mapping, sentiment tracking, and campaign optimization. Looking to collaborate on impactful data-driven projects.
