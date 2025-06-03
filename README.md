@@ -7,15 +7,18 @@
 
 ## 🧠 About Me
 
-I am a **Data Analyst with 2+ years of experience** in transforming unstructured political and public domain data into actionable insights. I've contributed to **data-driven electoral wins**, optimized operations, and enforced data quality standards at scale. I'm passionate about turning raw data into powerful narratives that drive decision-making and real-world impact.
+Business-focused **Data Analyst** with over **3** years of experience in building automated reporting systems, crafting KPI dashboards, and delivering stakeholder insights. Proficient in Advanced SQL, Power BI, and Excel (Power Query, Pivot, DAX), with a track record of cost optimization and campaign efficiency improvements. Comfortable working with unstructured data, geo-mapping, and large-scale sentiment analysis to support high-impact decisions. Seeking to contribute to global analytics teams driving business transformation.
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages & Tools**: SQL (Joins, CTEs, Subqueries), Microsoft Excel (Power Query, Lookups, Pivot), Power BI
-- **Techniques**: ETL, EDA, KPI Tracking, Compliance Monitoring, Root Cause Analysis
-- **Soft Skills**: Stakeholder Communication, Team Leadership, Problem Solving
+- **Languages & Frameworks**: SQL (Joins, CTEs, Subqueries), Python (Pandas, Numpy)
+- **Databases & Platforms**: Postgresql, Google Sheets
+- **Project Management Tools**: JIRA (familiar)
+- **BI & Reporting Tools**: Excel (Power Query, Pivot, DAX), Power BI, MS Office Suite
+- **Data Analysis & Statistical Skills**: Descriptive & Inferential Statistics, Time-Series Analysis, Forecasting, KPI Reporting, Root Cause Analysis 
+- **Soft Skills & Additional Competencies**: Stakeholder Communication, Cross-functional Teamwork, Problem Solving, Team Leadership
 
 ---
 
