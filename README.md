@@ -4,7 +4,7 @@
 
 ---
 
-![Dashboard Preview](Saikishan.png)
+![Dashboard Preview](Saikishan1.png)
 
 ## 🧠 About Me
 
