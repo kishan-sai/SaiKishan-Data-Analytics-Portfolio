@@ -23,9 +23,9 @@ Business-focused **Data Analyst** with over **2 years** of experience transformi
 
 ### 🧑‍💼 Recruitment Analytics Dashboard – Power BI
 
-![Recruitment Dashboard Screenshot](Dashboard_Snapshot.png)
-
 Built a **Power BI dashboard** to visualize the end-to-end recruitment funnel using Excel-based candidate data. The report highlights drop-off stages, role/location-wise trends, and turnaround time (TAT), empowering HR teams to make data-driven hiring decisions.
+
+![Recruitment Dashboard Screenshot](Dashboard_Snapshot.png)
 
 **🔧 Tools Used**: Power BI, Power Query, DAX, Excel  
 **📊 Key Insights**: Dropout analysis, role-based performance, location trends, and recruitment KPIs  
@@ -35,9 +35,9 @@ Built a **Power BI dashboard** to visualize the end-to-end recruitment funnel us
 
 ### ✈️ Indigo Flight Dashboard – Excel BI Project
 
-![Flight Dashboard Screenshot](Airlines-Dashboard.png)
-
 Developed an **interactive Excel dashboard** to analyze Indigo Airlines flight performance using PivotTables, slicers, and VBA. The dashboard tracks revenue, punctuality, route performance, and monthly trends for airline operations.
+
+![Flight Dashboard Screenshot](Airlines-Dashboard.png)
 
 **🔧 Tools Used**: Excel, PivotTables, Slicers, VBA, Conditional Formatting  
 **📊 Key Insights**: Top revenue routes, most delayed sectors, monthly and route-wise trends  
@@ -47,9 +47,9 @@ Developed an **interactive Excel dashboard** to analyze Indigo Airlines flight p
 
 ### 💰 Personal Finance Tracker – Excel Dashboard
 
-![Finance Dashboard Screenshot](Income_Tracker.png)
-
 Created a **fully automated personal finance tracker in Excel** to log, categorize, and visualize income and expenses. Built-in formulas and pivot tables power a dynamic dashboard that supports monthly budgeting and financial planning.
+
+![Finance Dashboard Screenshot](Income_Tracker.png)
 
 **🔧 Tools Used**: Excel, Lookup Functions, Pivot Tables, Conditional Formatting  
 **📊 Key Insights**: Income vs. expense trends, top spending categories, savings tracker  
