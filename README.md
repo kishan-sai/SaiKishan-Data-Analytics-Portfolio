@@ -3,82 +3,85 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/saikishans) | 📧 kishansaims@gmail.com | 📍 Hyderabad, India
 
 ---
+
 ![Dashboard Preview](Saikishan.png)
 
 ## 🧠 About Me
 
-Business-focused **Data Analyst** with over **3** years of experience in building automated reporting systems, crafting KPI dashboards, and delivering stakeholder insights. Proficient in Advanced SQL, Power BI, and Excel (Power Query, Pivot, DAX), with a track record of cost optimization and campaign efficiency improvements. Comfortable working with unstructured data, geo-mapping, and large-scale sentiment analysis to support high-impact decisions. Seeking to contribute to global analytics teams driving business transformation.
+Business-focused **Data Analyst** with over **2 years** of experience transforming raw data into actionable insights to drive strategic decisions. Proficient in **Advanced SQL**, **Power BI**, and **Excel** (Power Query, Pivot, DAX), with a passion for building dashboards, automating reports, and delivering data stories that matter. Skilled in geo-mapping, sentiment tracking, and campaign optimization. Looking to collaborate on impactful data-driven projects.
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages & Frameworks**: SQL (Joins, CTEs, Subqueries), Python (Pandas, Numpy)
-- **Databases & Platforms**: Postgresql, Google Sheets
-- **Project Management Tools**: JIRA (familiar)
-- **BI & Reporting Tools**: Excel (Power Query, Pivot, DAX), Power BI, MS Office Suite
-- **Data Analysis & Statistical Skills**: Descriptive & Inferential Statistics, Time-Series Analysis, Forecasting, KPI Reporting, Root Cause Analysis 
-- **Soft Skills & Additional Competencies**: Stakeholder Communication, Cross-functional Teamwork, Problem Solving, Team Leadership
+- **Languages & Frameworks**: SQL (Joins, CTEs, Subqueries, Window Functions), Python (Pandas, NumPy)
+- **Databases & Tools**: PostgreSQL, Microsoft Excel, Google Sheets
+- **Visualization Tools**: Power BI, Excel Dashboards, DAX Studio
+- **Data Tasks**: ETL, Data Cleaning, Validation, Normalization, Pipelines
+- **Soft Skills**: Stakeholder Communication, Team Leadership, Problem Solving, Attention to Detail
 
 ---
 
-## 📊 Portfolio Projects
+## 💼 Experience
 
-### 🗳️ 1. Andhra Pradesh Elections 2024 – Voter Sentiment Analysis
-- **Goal**: Increase vote margin using data-driven campaign strategies.
-- **Outcome**: Helped boost vote margin by **5%**, aiding in party victory.
-- **Tools Used**: Excel, Power BI, SQL
-- **Highlights**: Field-level data auditing, KPI dashboards, risk identification.
-- 🔗 *[Project Link Coming Soon]*
-
----
-
-### 📍 2. Karnataka BBMP Elections – Campaign Cost Optimization
-- **Goal**: Reduce venue and campaign costs while increasing event turnout.
-- **Outcome**: Achieved **10% cost reduction**, **20% higher event attendance**.
-- **Tools Used**: Excel, SQL
-- **Highlights**: Event site selection analytics, error reduction in voter data.
+### 📍 ClockWork Campaigns & Analytics – Hyderabad, India  
+**Political Consultant / Data Analyst**  
+*July 2023 – Present*  
+- Built real-time KPI dashboards in Power BI & Excel for campaign tracking across 4 districts.  
+- Automated weekly reporting, reducing manual efforts by 40%.  
+- Detected and flagged anomalies, improving strategic accuracy by 40%.  
+- Collaborated cross-functionally to generate data insights and reports.
 
 ---
 
-### 🧹 3. Field Data Quality Assurance System
-- **Goal**: Enforce 100% compliance with data quality benchmarks.
-- **Outcome**: **Reduced strategic errors by 40%** through QA protocols.
-- **Tools Used**: Power BI, Excel
-- **Highlights**: Created real-time validation trackers and audit workflows.
+### 📍 Factree Communications Pvt. Ltd – Bangalore, India  
+**Political Analyst**  
+*March 2023 – July 2023*  
+- Developed Excel dashboards to track volunteer performance, improving efficiency by 25%.  
+- Applied data validation to reduce entry errors by 20%.  
+- Performed route optimization using Google Maps, reducing logistics cost by 30%.  
+- Delivered real-time sentiment tracking dashboards for leadership decisions.
 
 ---
 
-### 🧭 4. Bharat Jodo Yatra – Route & Resource Optimization
-- **Goal**: Minimize logistics cost using data from Google Maps and local insights.
-- **Outcome**: **15% drop in mobilization costs** while maintaining outreach.
-- **Tools Used**: Google Maps, Excel
-- **Highlights**: Route heatmaps, volunteer path planning.
+### 📍 Mindshare Analytics – Hyderabad, India  
+**Political Analyst**  
+*July 2022 – March 2023*  
+- Led field-level data collection via Google Forms & Excel, maintaining high data quality.  
+- Designed cost & mobilization trackers that cut travel inefficiencies by 15%.  
+- Optimized Bharat Jodo Yatra routes using Maps APIs and simulation tools.  
+- Built budget tracking dashboards to support leadership decisions.
 
 ---
 
-## 📜 Certifications
+## 🎓 Education
 
-- 🥈 **SQL – Silver Badge**, HackerRank
-- 🟢 **Advanced Excel**, CodeBasics: Learnt Excel from Beginner to Advanced level using a real-time business dataset.
-- 🟣 **Power BI Bootcamp**, Upgrad: Covered Relationships and DAX Functions and understood the nuances between Categorical and Continuous data
-- 🟡 **SQL Bootcamp**, techtnf: Covered a variety of SQL concepts from basic to advanced level, concluded with a mini project.
+### 🎓 Halmstad University – Sweden  
+**CISCO Network Design and Computer Management**  
+*Sep 2018 – Feb 2019*  
+- Focused on scalable infrastructure, automation using Python, and Linux system administration.
+
+### 🎓 Dalarna University – Sweden  
+**Master’s in Solar Energy Engineering**  
+*Sep 2015 – Aug 2018*  
+- Specialized in renewable energy systems and analytical modeling using TRNSYS & Polysun.  
+- Thesis: *Data modeling of solar output variance due to connector differences*.
 
 ---
 
-## 🔍 Looking to Collaborate On
+## 🌍 Languages
 
-- 🎯 Public Policy & Electoral Data Projects
-- 📈 Impact Dashboards for NGOs or Political Startups
-- 📚 Data-Driven Storytelling for Social Impact
+- **English**: Professional Working Proficiency  
+- **Hindi**: Limited Working Proficiency  
+- **Swedish**: Limited Working Proficiency
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 Email: kishansaims@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/saikishans)
-- 🌐 Location: Hyderabad, India
+- 📧 Email: kishansaims@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/saikishans)  
+- 🌐 Location: Hyderabad, India  
 
 ---
 
