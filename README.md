@@ -41,7 +41,7 @@ Developed an **interactive Excel dashboard** to analyze Indigo Airlines flight p
 
 **🔧 Tools Used**: Excel, PivotTables, Slicers, VBA, Conditional Formatting  
 **📊 Key Insights**: Top revenue routes, most delayed sectors, monthly and route-wise trends  
-**🔗 [View Project Repository](link-to-repo](https://github.com/kishan-sai/AirIndia-Flights-Dashboard-with-Excel.git)**
+**🔗 [View Project Repository](https://github.com/kishan-sai/AirIndia-Flights-Dashboard-with-Excel.git)**
 
 ---
 
