@@ -1,12 +1,10 @@
-# Sai Kishan Tanguturi – Data Analyst Portfolio
+# Hey, my name is Saikishan 👋
 
-🔗 [LinkedIn](https://www.linkedin.com/in/saikishans) | 📧 kishansaims@gmail.com | 📍 Hyderabad, India
+I’m a Data & Analytics Analyst with a background in political consulting and a deep focus on solving business problems through data-driven decisions.
 
----
+With hands-on experience in KPI dashboarding, geo-analytics, sentiment segmentation, and cost optimization, I’ve supported high-stakes campaigns and cross-functional teams in making faster, smarter decisions.
 
-## 🧠 About Me
-
-Business-focused **Data Analyst** with over **2 years** of experience transforming raw data into actionable insights to drive strategic decisions. Proficient in **Advanced SQL**, **Power BI**, and **Excel** (Power Query, Pivot, DAX), with a passion for building dashboards, automating reports, and delivering data stories that matter. Skilled in geo-mapping, sentiment tracking, and campaign optimization. Looking to collaborate on impactful data-driven projects.
+My expertise lies in tools like Power BI, SQL, and Excel — and my core mission is to turn data into insight, and insight into impact.
 
 ---
 
@@ -59,9 +57,9 @@ Created a **fully automated personal finance tracker in Excel** to log, categori
 
 ## 📫 Let's Connect
 
-- 📧 Email: kishansaims@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/saikishans)  
-- 🌐 Location: Hyderabad, India  
+ 💬 LinkedIn ➡︎ [Saikishan](https://www.linkedin.com/in/saikishans)
+
+ 📧 Email ➡︎ kishansaims@gmail.com  
 
 ---
 
