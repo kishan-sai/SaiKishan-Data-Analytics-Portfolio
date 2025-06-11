@@ -7,16 +7,6 @@ With hands-on experience in KPI dashboarding, geo-analytics, sentiment segmentat
 My expertise lies in tools like Power BI, SQL, and Excel — and my core mission is to turn data into insight, and insight into impact.
 
 ---
-
-## 🛠️ Areas Of Expertise
-
-- **Languages & Frameworks**: SQL (Joins, CTEs, Subqueries, Window Functions), Python (Pandas, NumPy)
-- **Databases & Tools**: PostgreSQL, Microsoft Excel, Google Sheets
-- **Visualization Tools**: Power BI, Excel Dashboards, DAX Studio
-- **Data Tasks**: ETL, Data Cleaning, Validation, Normalization, Pipelines
-- **Soft Skills**: Stakeholder Communication, Team Leadership, Problem Solving, Attention to Detail
-
----
 ## 📁 Portfolio Projects
 
 ### 🧑‍💼 Recruitment Analytics Dashboard – Power BI
