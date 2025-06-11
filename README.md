@@ -7,7 +7,7 @@ With hands-on experience in KPI dashboarding, geo-analytics, sentiment segmentat
 My expertise lies in tools like Power BI, SQL, and Excel — and my core mission is to turn data into insight, and insight into impact.
 
 ---
-## 📁 Portfolio Projects
+## 📁 Analytics in Action
 
 ### 🧑‍💼 Recruitment Analytics Dashboard – Power BI
 
