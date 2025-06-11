@@ -7,6 +7,22 @@ With hands-on experience in KPI dashboarding, geo-analytics, sentiment segmentat
 My expertise lies in tools like Power BI, SQL, and Excel — and my core mission is to turn data into insight, and insight into impact.
 
 ---
+
+### 🛠️ Languages & Tools
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/excel/excel-original.svg" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlesheets/googlesheets-original.svg" title="Google Sheets" alt="Google Sheets" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/looker/looker-original.svg" title="Looker Studio" alt="Looker Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powerpoint/powerpoint-original.svg" title="PowerPoint" alt="PowerPoint" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftoffice/microsoftoffice-original.svg" title="MS Office" alt="MS Office" width="40" height="40"/>
+</div>
+
+---
+
 ## 📁 Analytics in Action
 
 ### 🧑‍💼 Recruitment Analytics Dashboard – Power BI
